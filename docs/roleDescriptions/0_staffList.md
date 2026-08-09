@@ -42,7 +42,7 @@ We could use some help finding our voice on Bluesky and TikTok!
 
 ## Media
 @**magictwin** \
-**Mia** / @wildly.mia \
+**Mia** \
 **pixel** / @pixelmeows \
 **Pixel ❰ ║▌- ▪/▪ ❱** / @pixeldoesstuff \
 @**Regar** \
@@ -52,12 +52,11 @@ We could use some help finding our voice on Bluesky and TikTok!
 ## Moderators
 @**Mitsync** \
 **Barror1** / @cath20021 \
-**Dax** / @aussiedax \
 **howl** \
 **Llama** \
 @**LunaVixi** \
 @**magictwin** \
-**Mia** / @wildly.mia \
+**Mia** \
 **Pixel ❰ ║▌- ▪/▪ ❱** / @pixeldoesstuff \
 @**Riksaah** \
 @**Schun_justschun** \
