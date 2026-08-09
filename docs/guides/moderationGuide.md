@@ -1,7 +1,7 @@
 ---
 title: Moderation Guide
 layout: default
-nav_order: 3
+nav_order: 1
 parent: Guides
 ---
 # Moderation Guide
@@ -28,20 +28,20 @@ For every event a call for moderation sign-ups will be released by the moderatio
 [1]: In general the target is 2 moderators per slot, and max 2 hours per moderator (preferably consecutive). Staff with double roles (such as moderation and media) will never be assigned alone. The event host will only be assigned moderation duty if absolutely necessary. DJs cannot moderate their own DJ slot (you know who you are).
 
 ### Starting your shift
-Your shift starts at the time indicated in the final schedule posted in the **[#mod-signup](https://discord.com/channels/1144683882336231524/1266820389149868074)** thread, please attempt to be in the instance about 5 minutes before this time. Once you're in the instance, prepare by making sure you are in an appropriate avatar/outfit, representing the SONAR Staff group banner, and joining the **[#Staff com](https://discord.com/channels/1144683882336231524/1257352779396288543)** voicechat. Also try to find the other moderator(s) in the instance to communicate if anything happened during the previous slot and how you will work this slot.
+Your shift starts at the time indicated in the final schedule posted in the **[#mod-signup](https://discord.com/channels/1144683882336231524/1266820389149868074)** thread, please attempt to be in the instance a couple minutes before this time. Once you're in the instance, prepare by making sure you are in an appropriate avatar/outfit, representing the SONAR Staff group banner, and joining the **[#Staff com](https://discord.com/channels/1144683882336231524/1257352779396288543)** voicechat. Also try to find the other moderator(s) in the instance to communicate if anything happened during the previous slot and how you will work this slot.
 If you can't be in the instance on time please inform the other staff in the **[#mod-signup](https://discord.com/channels/1144683882336231524/1266820389149868074)** thread *before your slot starts*.
 
 ### During the shift
 The key responsibilities for a moderator during a normal event are the following: 
 - Inform people that are wearing avatars with a "very poor" performance rating;
-- Enforce the group rules (see [Rules](https://sonarvrc.github.io/docs/about/rules.html) and TODO:RULES_MODERATION);
+- Enforce the group rules (see [Rules](https://sonarvrc.github.io/docs/about/rules.html) and [Rule Enforcement](https://sonarvrc.github.io/docs/guides/moderationRules.html));
 - Answer questions from visitors or redirect them to the appropriate person;
 - Make sure everyone is having a good time!
 
 Try to stay mobile during your shift, making sure to cover the entire venue regularly including side areas such as spawn. You can coordinate with the other moderator on shift to work out how often you are both moderating particular areas. During times with a lot of inflow it might be useful to have one or both moderators near the entrance.
 
 #### Avatar performance rating
-By far most of your moderation interactions will be reminding people to wear an optimised avatar, and in most of these cases the person will switch upon asking. It's recommended to have a couple public optimised avatars in different styles saved to your VRChat account so you can provide one to people who don't have one themselves, there is a list of examples in TODO:AVATARS. Some new visitors, especially those not on PC, might not know what avatar performance rating means and that it differs between platforms, see TODO:COMMON ANSWERS for talking points.
+By far most of your moderation interactions will be reminding people to wear an optimised avatar, and in most of these cases the person will switch upon asking. It's recommended to have a couple public optimised avatars in different styles saved to your VRChat account so you can provide one to people who don't have one themselves, there is a list of examples in the **[optimised avatars](https://discord.com/channels/1144683882336231524/1443577631416123433)** thread. Some new visitors, especially those not on PC, might not know what avatar performance rating means and that it differs between platforms, see [FAQ](https://sonarvrc.github.io/docs/about/faq.html) for talking points.
 
 #### Enforcing rules
 Most of the time when someone breaks a rule or otherwise requires moderation it is because they are not aware or just forgot. For those cases, always approach someone in a friendly manner first and inform them what is going wrong. If it becomes clear they do not plan on cooperating you can use a moderation action in the following order:
@@ -61,12 +61,12 @@ Moderation becomes a lot harder if the person in question does not speak English
 #### Answering questions
 Besides moderation you are also a point of contact for the SONAR group. People will come to you with questions/reports about:
 - Other visitors: this is usually about moderation so handle appropriately;
-- The video/audio stream: see TODO:COMMON ANSWERS for troubleshooting steps;
+- The video/audio stream: see [FAQ](https://sonarvrc.github.io/docs/about/faq.html) for troubleshooting steps. If that doesn't succeed log the problem including platform and approximate location;
 - The venue: redirect these questions to someone from the world team (preferably the creator of the venue in question);
-- This event: redirect these questions to the event host;
+- The current event: redirect these questions to the event host;
 - Future events or collabs: redirect these questions to a commander of events.
 
-More common questions and answers can be found in TODO:COMMON ANSWERS.
+More common questions and answers can be found in [FAQ](https://sonarvrc.github.io/docs/about/faq.html).
 
 ### Ending your shift
 Make sure the next moderators are in place before you end your shift and brief them of anything important from your shift, like moderator actions or raids. If the moderators who are supposed to be on shift next are not in the world, message them via the **[#mod-signup](https://discord.com/channels/1144683882336231524/1266820389149868074)** thread.
