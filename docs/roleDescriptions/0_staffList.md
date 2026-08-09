@@ -10,60 +10,69 @@ Welcome to the SONAR Staff list. This page lists all the teams within SONAR and 
 If you want to apply for any of these teams please create a ticket in **[#tickets](https://discord.com/channels/1144683882336231524/1163422864637169754)** in the Discord server.
 
 ## Open positions
-### Media team - Graphics designer
-We could use some help with making posters, icons, and other graphical assets!
+### Media team - Social media manager
+We could use some help finding our voice on Bluesky and TikTok!
 
 ## Commanders
-**@magictwin** - Media, Organisation \
-**@Llamahat** - Worlds \
-**@dahottah** / Monty! - Events \
-**@vlily** - Events \
-**@Mitsync** - Moderation \
-**@Arkui** - Development
+@**Arkui** - Development \
+**Llama** - Worlds \
+@**magictwin** - Media, Organisation \
+@**Mitsync** - Moderation \
+**Monty!** / @dahottah - Events \
+**v·lily** / @vlily - Events
 
-## Event hosts
-**@dahottah** / Monty! \
-**@vlily** \
-**@pixeldoesstuff** \
-**@aussiedax** / Dax
+## Organisation
+@**magictwin** \
+**Llama** \
+@**Mitsync**
 
 ## World developers
-**@Llamahat** - Underpass and many others \
-**@magictwin** - Substation \
-**@dahottah** / Monty! - Threshold
+**Llama** - Underpass and many others \
+@**magictwin** - Substation \
+**Monty!** / @dahottah - Threshold
 
-## Moderators
-**@Mitsync** \
-**@cath20021** / Barror1 \
-**@magictwin** \
-**@Llamahat** \
-**@Riksaah** \
-**@vniv73** / V N I V Ꞁ Ǝ \
-**@silverfoxx6969** / SilverFoxx \
-**@shrookywaff** / Shrooky \
-**@wildly.mia** / Mia \
-**@howlllll** / howl \
-**@auddiedax** / Dax \
-**@pixeldoesstuff**
+## Events
+**Monty!** / @dahottah \
+**v·lily** / @vlily  \
+**Dax** / @aussiedax \
+**Daxan** / @daxanoxe \
+@**LunaVixi** \
+**Pixel ❰ ║▌- ▪/▪ ❱** / @pixeldoesstuff \
+**Random Memories** / @randommemories.
 
 ## Media
-**@vlily** \
-**@wildly.mia** / Mia \
-**@Regar** \
-**@Silverplushie** \
-**@pixeldoesstuff** \
-**@magictwin**
+@**magictwin** \
+**Mia** \
+**pixel** / @pixelmeows \
+**Pixel ❰ ║▌- ▪/▪ ❱** / @pixeldoesstuff \
+@**Regar** \
+@**Silverplushie** \
+**v·lily** / @vlily
 
-<!---
-This is where we'd put our graphics designers
-IF WE HAD ANY
--->
+## Moderators
+@**Mitsync** \
+**Barror1** / @cath20021 \
+**howl** \
+**Llama** \
+@**LunaVixi** \
+@**magictwin** \
+**Mia** \
+**Pixel ❰ ║▌- ▪/▪ ❱** / @pixeldoesstuff \
+@**Riksaah** \
+@**Schun_justschun** \
+**Shrooky** / @shrookywaff \
+**SilverFoxx**
 
 ## Development
-**@Arkui**
+@**Arkui** \
+@**magictwin** \
+**v·lily** / @vlily
 
-## On break
-**@subdefense** - Events \
-**@kindaglitchy** / Glitchy - Moderator
+## On shoreleave
+**Glitchy** / @kindaglitchy - Moderator \
+@**subdefense** - Events
 
-Last update: 21-12-2025
+## In memory of
+V N I V Ꞁ Ǝ
+
+Last update: 09-08-2026
