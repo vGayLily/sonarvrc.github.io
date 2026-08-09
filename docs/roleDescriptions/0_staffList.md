@@ -14,64 +14,64 @@ If you want to apply for any of these teams please create a ticket in **[#ticket
 We could use some help finding our voice on Bluesky and TikTok!
 
 ## Commanders
-**@magictwin** - Media, Organisation \
-Llama - Worlds \
-**@dahottah** / Monty! - Events \
-**@vlily** / v·lily- Events \
-**@Mitsync** - Moderation \
-**@Arkui** - Development
+@**Arkui** - Development \
+**Llama** - Worlds \
+@**magictwin** - Media, Organisation \
+@**Mitsync** - Moderation \
+**Monty!** / @dahottah - Events \
+**v·lily** / @vlily - Events
 
 ## Organisation
-**@magictwin** \
-**@Mitsync** \
-Llama
+@**magictwin** \
+**Llama** \
+@**Mitsync**
 
 ## World developers
-Llama - Underpass and many others \
-**@magictwin** - Substation \
-**@dahottah** / Monty! - Threshold
+**Llama** - Underpass and many others \
+@**magictwin** - Substation \
+**Monty!** / @dahottah - Threshold
 
-## Event hosts
-**@dahottah** / Monty! \
-**@vlily** / v·lily \
-**@pixeldoesstuff** / Pixel ❰ ║▌- ▪/▪ ❱ \
-**@aussiedax** / Dax \
-**@daxanoxe** / Daxan \
-**@randommemories.** / Random Memories \
-**@LunaVixi**
+## Events
+**Monty!** / @dahottah \
+**v·lily** / @vlily  \
+**Dax** / @aussiedax \
+**Daxan** / @daxanoxe \
+@**LunaVixi** \
+**Pixel ❰ ║▌- ▪/▪ ❱** / @pixeldoesstuff \
+**Random Memories** / @randommemories.
 
 ## Media
-**@magictwin** \
-**@wildly.mia** / Mia \
-**@Regar** \
-**@Silverplushie** \
-**@pixelmeows** / pixel \
-**@vlily** / v·lily \
-**@pixeldoesstuff**
+@**magictwin** \
+**Mia** / @wildly.mia \
+**pixel** / @pixelmeows \
+**Pixel ❰ ║▌- ▪/▪ ❱** / @pixeldoesstuff \
+@**Regar** \
+@**Silverplushie** \
+**v·lily** / @vlily
 
 ## Moderators
-**@Mitsync** \
-**@cath20021** / Barror1 \
-**@magictwin** \
-Llama \
-**@Riksaah** \
-SilverFoxx \
-**@shrookywaff** / Shrooky \
-**@wildly.mia** / Mia \
-howl \
-**@auddiedax** / Dax \
-**@pixeldoesstuff** / Pixel ❰ ║▌- ▪/▪ ❱ \
-**@Schun_justschun** \
-**@LunaVixi**
+@**Mitsync** \
+**Barror1** / @cath20021 \
+**Dax** / @aussiedax \
+**howl** \
+**Llama** \
+@**LunaVixi** \
+@**magictwin** \
+**Mia** / @wildly.mia \
+**Pixel ❰ ║▌- ▪/▪ ❱** / @pixeldoesstuff \
+@**Riksaah** \
+@**Schun_justschun** \
+**Shrooky** / @shrookywaff \
+**SilverFoxx**
 
 ## Development
-**@Arkui** \
-**@magictwin** \
-**@vlily** / v·lily
+@**Arkui** \
+@**magictwin** \
+**v·lily** / @vlily
 
 ## On shoreleave
-**@subdefense** - Events \
-**@kindaglitchy** / Glitchy - Moderator
+**Glitchy** / @kindaglitchy - Moderator \
+@**subdefense** - Events
 
 ## In memory of
 V N I V Ꞁ Ǝ
