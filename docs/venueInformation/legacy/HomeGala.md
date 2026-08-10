@@ -1,6 +1,8 @@
 ---
-title: Caisson
+title: Home Gala
 layout: default
 parent: Legacy and Retired Worlds
+nav_order: 3
 ---
-# Caisson
+# Home Gala
+## Legacy

@@ -1,6 +1,7 @@
 ---
-title: Substation
+title: SONAR X PIPE
 layout: default
 parent: Open Decks Venues
+nav_order: 3
 ---
-# Substation
+# SONAR X PIPE

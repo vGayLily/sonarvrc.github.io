@@ -1,7 +1,8 @@
 ---
 title: Junktion
 layout: default
-parent: Venue Information
+parent: Special Events Venues
+nav_order: 2
 ---
 # Junktion
 SONAR's newest venue, Junktion, is a small underground rail crossing of two subway lines. The venue features a gritty, industrial aesthetic fit for underground 2000s era raves.

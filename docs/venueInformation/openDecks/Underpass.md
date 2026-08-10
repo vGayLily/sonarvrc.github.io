@@ -1,7 +1,8 @@
 ---
 title: Underpass
 layout: default
-parent: Venue Information
+parent: Open Decks Venues
+nav_order: 1
 ---
 # Underpass
 Underpass is SONAR's primary world and home to many of our events. Typically used for "Open Decks" events, Underpass features a single long tunnel with the DJ at the end. It features graffiti-covered walls, wall and floor lighting that react to the music.

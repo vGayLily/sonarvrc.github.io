@@ -1,9 +1,11 @@
 ---
 title: Spillways
 layout: default
-parent: Venue Information
+parent: Legacy and Retired Worlds
+nav_order: 4
 ---
 # Spillways
+## Legacy
 The Spillways is SONAR's festival venue, designed to host large-scale events and performances, this venues unique architecture and tall ceilings creates a sense of scale and grandeur.
 
 <img src="../../assets/images/SONARVenues/Spillways.png" alt="Spillways" width="75%"/>

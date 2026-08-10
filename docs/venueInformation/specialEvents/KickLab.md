@@ -1,7 +1,8 @@
 ---
 title: KickLab
 layout: default
-parent: Venue Information
+parent: Special Events Venues
+nav_order: 3
 ---
 # KickLab
 SONAR's Kicklab is our resident venue for all things heavy and hard-hitting. Designed to deliver an immersive Visual and Light experience, Kicklab is the perfect setting for bass-heavy music genres.
